@@ -6,6 +6,7 @@ $(function() {
 				// keys: false,               //  Enable keyboard (left, right) arrow shortcuts
 				// dots: false,               //  Display dot navigation
 				// fluid: false              //  Support responsive design. May break non-responsive designs
+				infinite: true
 			});
 
 			var unslider = $('.banner').unslider();
